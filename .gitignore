@@ -2,3 +2,4 @@
 kaggle.json
 *.csv
 .DS_store
+.ipynb_checkpoints
